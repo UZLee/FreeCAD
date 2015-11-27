@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>A:</source>
-        <translation type="unfinished">A:</translation>
+        <translation type="unfinished">A：</translation>
     </message>
     <message>
         <source>B:</source>
@@ -735,7 +735,7 @@ while doing a left or right click and move the mouse up or down</source>
     </message>
     <message>
         <source>The shortcut &apos;%1&apos; is defined more than once. This could result into unexpected behaviour.</source>
-        <translation type="unfinished">該快捷鍵&apos;％1&apos;已定義超過一次。這可能導致意外的情況。</translation>
+        <translation type="unfinished">該快捷鍵&apos;%1&apos;已定義超過一次。這可能導致意外的情況。</translation>
     </message>
     <message>
         <source>Already defined shortcut</source>
@@ -1369,7 +1369,7 @@ This file already exists.</source>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished">％</translation>
+        <translation type="unfinished">%</translation>
     </message>
     <message>
         <source>Ambient color:</source>
@@ -1403,7 +1403,7 @@ This file already exists.</source>
     <name>Gui::Dialog::DlgOnlineHelpImp</name>
     <message>
         <source>HTML files (*.html *.htm)</source>
-        <translation type="unfinished">HTML 檔 （*.html *.htm）</translation>
+        <translation type="unfinished">HTML 檔 (*.html *.htm)</translation>
     </message>
     <message>
         <source>Access denied</source>
@@ -1463,7 +1463,7 @@ Specify another directory, please.</source>
     </message>
     <message>
         <source>Invalid key name &apos;%1&apos;</source>
-        <translation type="unfinished">無效的鍵名&apos;％1&apos;</translation>
+        <translation type="unfinished">無效的鍵名&apos;%1&apos;</translation>
     </message>
     <message>
         <source>System parameter</source>
@@ -2534,7 +2534,7 @@ Specify another directory, please.</source>
     <message>
         <source>Download failed: %1
 </source>
-        <translation type="unfinished">下載失敗：％1</translation>
+        <translation type="unfinished">下載失敗：%1</translation>
     </message>
     <message>
         <source>If you want to learn more about FreeCAD you must go to %1 or press the Help item in the Help menu.</source>
@@ -2943,7 +2943,7 @@ The &apos;Status&apos; column shows whether the document could be recovered.</so
     </message>
     <message>
         <source>Reading from &apos;%1&apos; failed.</source>
-        <translation type="unfinished">讀取&apos;％1&apos;失敗。</translation>
+        <translation type="unfinished">讀取&apos;%1&apos;失敗。</translation>
     </message>
 </context>
 <context>
@@ -3291,7 +3291,7 @@ The &apos;Status&apos; column shows whether the document could be recovered.</so
     </message>
     <message>
         <source>Plain Text Files (*.txt *.log)</source>
-        <translation type="unfinished">純文字檔 （*.txt *.log)</translation>
+        <translation type="unfinished">純文字檔 (*.txt *.log)</translation>
     </message>
     <message>
         <source>Go to end</source>
@@ -3474,7 +3474,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>FreeCAD macro (*.FCMacro);;Python (*.py)</source>
-        <translation type="unfinished">FreeCAD巨集（*.FCMacro）;;的Python（*.PY）</translation>
+        <translation type="unfinished">FreeCAD巨集(*.FCMacro);;的Python (*.py)</translation>
     </message>
     <message>
         <source>Export PDF</source>
@@ -3482,7 +3482,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>PDF file (*.pdf)</source>
-        <translation type="unfinished">PDF檔（*.PDF）</translation>
+        <translation type="unfinished">PDF檔 (*.pdf)</translation>
     </message>
     <message>
         <source>untitled[*]</source>
@@ -3588,7 +3588,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Bitmap format (*.bmp)</source>
-        <translation type="unfinished">點陣圖格式 （*.bmp）</translation>
+        <translation type="unfinished">點陣圖格式 (*.bmp)</translation>
     </message>
     <message>
         <source>GIF format (*.gif)</source>
@@ -4051,7 +4051,7 @@ Do you want to exit without saving your data?</source>
     </message>
     <message>
         <source>Open %1 as</source>
-        <translation type="unfinished">開啟％1為</translation>
+        <translation type="unfinished">開啟%1為</translation>
     </message>
     <message>
         <source>Select</source>
@@ -4278,7 +4278,7 @@ Do you want to specify another directory?</source>
     </message>
     <message>
         <source>PDF file (*.pdf)</source>
-        <translation type="unfinished">PDF檔（*.PDF）</translation>
+        <translation type="unfinished">PDF檔 (*.pdf)</translation>
     </message>
 </context>
 <context>
@@ -4699,7 +4699,7 @@ Please open a browser window and type in: http://localhost:%1.</source>
     </message>
     <message>
         <source>%1 document (*.FCStd)</source>
-        <translation type="unfinished">％1文件（*.FCStd）</translation>
+        <translation type="unfinished">%1文件(*.FCStd)</translation>
     </message>
     <message>
         <source>Document not closable</source>
@@ -4813,7 +4813,7 @@ You either have to finish or cancel the editing in the task panel.</source>
     </message>
     <message>
         <source>About %1</source>
-        <translation type="unfinished">關於％1</translation>
+        <translation type="unfinished">關於 %1</translation>
     </message>
 </context>
 <context>
